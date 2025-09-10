@@ -6,7 +6,7 @@ I have a strong foundation in algorithms, data structures, and problem-solving, 
 
 Outside of coding, I’m endlessly curious about astrophysics. I’m especially excited about applying algorithms for pattern mining and anomaly detection, and I’d love to collaborate on projects that tackle interesting, meaningful problems.
 
-I'm easiest to reach on **[Linkedin](https://www.linkedin.com/in/noorishhassan/).
+I'm easiest to reach on [Linkedin](https://www.linkedin.com/in/noorishhassan/).
 
 <!--
 **noorishhassan/noorishhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
