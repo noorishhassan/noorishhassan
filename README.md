@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi, I’m Noorish
+
+I'm currently pursuing a research-focused MSc in Computer Science in Germany. Before this, I studied a more practical BSc degree also in Computer Science in my home country. My work and research focus on exploratory data analysis, where I enjoy uncovering patterns and insights in complex datasets.
+
+I have a strong foundation in algorithms, data structures, and problem-solving, and I love applying these skills in practice, whether that’s building small logic games, working on passion projects, or experimenting with new ideas. 
+
+Outside of coding, I’m endlessly curious about astrophysics. I’m especially excited about applying algorithms for pattern mining and anomaly detection, and I’d love to collaborate on projects that tackle interesting, meaningful problems.
+
+I'm easiest to reach on **[Linkedin](https://www.linkedin.com/in/noorishhassan/).
 
 <!--
 **noorishhassan/noorishhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
